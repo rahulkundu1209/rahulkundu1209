@@ -1,9 +1,15 @@
 <h1>Hi there,<br/> Myself Rahul Kundu</h1>
+<p align='center'>
+  <p>Connect with me</p>
+  <a href="https://www.linkedin.com/in/rahul1209/" >Linkedin</a>
+  <a href="https://www.instagram.com/_rahul_._kundu_/" >Instagram</a>
+  <a>Facebook</a>
+</p>
 
 <!--
 **rahulkundu1209/rahulkundu1209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
