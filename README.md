@@ -1,4 +1,4 @@
-<h1>Hi there,<br/> Myself Rahul Kundu</h1>
+<h1>Hello,<br/> Myself Rahul Kundu</h1>
 <p align='center'>
   <p>Connect with me</p>
   <a href="https://www.linkedin.com/in/rahul1209/" >Linkedin</a>
