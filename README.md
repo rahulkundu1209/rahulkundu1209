@@ -1,4 +1,4 @@
-<h1>Hello,<br/> Myself Rahul Kundu</h1>
+## It started from, `printf("Hello World!");` <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 <p align='center'>
   <p>Connect with me</p>
   <a href="https://www.linkedin.com/in/rahul1209/" >Linkedin</a>
