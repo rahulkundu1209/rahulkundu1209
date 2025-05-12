@@ -2,10 +2,10 @@
 <table border="0">
   <tr>
     <td>
-      <p>I am Rahul Kundu, a third year undergrad student, pursuing B.Tech in Computer Science and Business Systems at Techno Main Salt Lake. My primary skills include web development using MERN Stack, problem solving in C/C++ language.</p>
+      <p>I am Rahul Kundu, a third-year undergraduate student pursuing a B.Tech in Computer Science and Business Systems at Techno Main Salt Lake, Kolkata, India. My core skills include web development using the MERN stack and problem-solving in C/C++. I also have hands-on experience with machine learning and data visualization using Python, app development with Kotlin, and backend development using Java (Spring Boot). Currently, I have begun exploring Agentic AI.</p>
     </td>
     <td>
-      <img src="https://github.com/rahulkundu1209/rahulkundu1209/blob/main/assets/photo.jpg" alt="Rahul Kundu" width="1000">
+      <img src="https://github.com/rahulkundu1209/rahulkundu1209/blob/main/assets/photo.jpg" alt="Rahul Kundu" width="800">
     </td>
   </tr>
 </table>
