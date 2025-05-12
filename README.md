@@ -15,12 +15,15 @@
     </td>
   </tr>
 </table>
-<p align='center'>
-  <p>Connect with me</p>
-  <a href="https://www.linkedin.com/in/rahul1209/" >Linkedin</a>
-  <a href="https://www.instagram.com/_rahul_._kundu_/" >Instagram</a>
-  <a>Facebook</a>
-</p>
+
+<table>
+  <td>
+    <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=rahulkundu1209&count_private=true&theme=radical&show_icons=true" />
+  </td>
+  <td>
+    <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulkundu1209&theme=radical">
+  </td>
+</table>
 
 <!--
 **rahulkundu1209/rahulkundu1209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
