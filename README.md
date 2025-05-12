@@ -2,7 +2,7 @@
 <table border="0">
   <tr>
     <td>
-      <p>I am Rahul Kundu, a third-year undergraduate student pursuing a B.Tech in Computer Science and Business Systems at Techno Main Salt Lake, Kolkata, India. My core skills include web development using the MERN stack and problem-solving in C/C++. I also have hands-on experience with machine learning and data visualization using Python, app development with Kotlin, and backend development using Java (Spring Boot). Currently, I have begun exploring Agentic AI.</p>
+      <p>I am Rahul Kundu, a third-year undergraduate student pursuing a B.Tech in Computer Science and Business Systems at Techno Main Salt Lake, Kolkata, India. My core skills include web development using the MERN stack and problem-solving in C/C++. I also have hands-on experience with machine learning and data visualization using Python, app development with Kotlin, and backend development using Java (Spring Boot). I have a deep interest in open source contribution and am currently exploring Agentic AI.</p>
       <a href="https://www.linkedin.com/in/rahul1209/">
         <img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-blue?style=plastic&logo=inspire&logoColor=blue&labelColor=white&color=blue">
       </a>
