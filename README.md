@@ -18,10 +18,10 @@
 
 <table>
   <td>
-    <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=rahulkundu1209&count_private=true&theme=radical&show_icons=true" />
+    <img height="200px" width="500" src="https://github-readme-stats.vercel.app/api?username=rahulkundu1209&count_private=true&theme=gotham&show_icons=true" />
   </td>
   <td>
-    <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulkundu1209&theme=radical">
+    <img alt= "stats card" height="205px" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulkundu1209&theme=gotham">
   </td>
 </table>
 
