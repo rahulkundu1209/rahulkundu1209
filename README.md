@@ -5,7 +5,7 @@
       <p>I am Rahul Kundu, a third year undergrad student, pursuing B.Tech in Computer Science and Business Systems at Techno Main Salt Lake. My primary skills include web development using MERN Stack, problem solving in C/C++ language.</p>
     </td>
     <td>
-      <img src="https://github.com/rahulkundu1209/rahulkundu1209/blob/main/assets/photo.jpg" alt="Rahul Kundu" width="150">
+      <img src="https://github.com/rahulkundu1209/rahulkundu1209/blob/main/assets/photo.jpg" alt="Rahul Kundu" width="1000">
     </td>
   </tr>
 </table>
