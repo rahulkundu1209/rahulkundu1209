@@ -1,4 +1,14 @@
 ## It started from, `printf("Hello World!");` <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+<table border="0">
+  <tr>
+    <td>
+      <p>I am Rahul Kundu, a third year undergrad student, pursuing B.Tech in Computer Science and Business Systems at Techno Main Salt Lake. My primary skills include web development using MERN Stack, problem solving in C/C++ language.</p>
+    </td>
+    <td>
+      <img src="https://github.com/rahulkundu1209/rahulkundu1209/blob/main/assets/photo.jpg" alt="Rahul Kundu" width="150">
+    </td>
+  </tr>
+</table>
 <p align='center'>
   <p>Connect with me</p>
   <a href="https://www.linkedin.com/in/rahul1209/" >Linkedin</a>
