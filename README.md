@@ -21,7 +21,7 @@
     <img height="200px" width="500" src="https://github-readme-stats.vercel.app/api?username=rahulkundu1209&count_private=true&theme=gotham&show_icons=true" />
   </td>
   <td>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=rahulkundu1209&theme=gotham" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulkundu1209&theme=gotham" alt="GitHub Streak" />
   </td>
 </table>
 
